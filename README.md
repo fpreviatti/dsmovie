@@ -8,8 +8,8 @@ Link do certificado de participação: https://learn.devsuperior.com/certificado
 
 1)Lista de filmes com suas avaliações:
 
-<img src="https://github.com/fpreviatti/dsmovie/blob/main/netlify.png" width="400px" height="auto">
+<img src="https://github.com/fpreviatti/dsmovie/blob/main/netlify.png" width="800px" height="auto">
 
 2)Tela de avaliação:
 
-<img src="https://github.com/fpreviatti/dsmovie/blob/main/avaliacao.png" width="400px" height="auto">
+<img src="https://github.com/fpreviatti/dsmovie/blob/main/avaliacao.png" width="800px" height="auto">

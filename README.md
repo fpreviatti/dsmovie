@@ -6,4 +6,4 @@ Link do projeto Netlify: https://fabiopreviatti-dsmovie.netlify.app/
 
 Link do certificado de participação: https://learn.devsuperior.com/certificados/2145143
 
-<img src="https://https://github.com/fpreviatti/dsmovie/blob/main/netlify.png" width="400px" height="auto">
+<img src="https://github.com/fpreviatti/dsmovie/blob/main/netlify.png" width="400px" height="auto">
